@@ -25,6 +25,7 @@ ios/.xcode.env.local
 # Android/IntelliJ
 #
 build/
+screens/components/inputs/Textfield.js
 .idea
 .gradle
 local.properties
